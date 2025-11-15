@@ -137,4 +137,5 @@ Emergency services and transport departments can prioritize regions and road typ
 
 The dashboard equips stakeholders with actionable insights to reduce road accidents, save lives, and enhance national road safety.
 
-Show what the dashboard looks like. - ![Dashboard Preview].(https://github.com/Ankit6046/Road-Accident-Dashboard/blob/main/Screenshot%202025-05-25%20083127.png)
+Show what the dashboard looks like. -![Alt text](https://github.com/username/repo/assets/image.png)
+Example: ![Dashboard Preview](https://github.com/Ankit6046/Road-Accident-Dashboard/blob/main/Screenshot%202025-05-25%20083127.png)
